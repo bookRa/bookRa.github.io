@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Omar Abdelbadie"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a team-oriented developer and data-engineer."
+  bio              : "I am a team-oriented developer and data engineer."
   location         : "Seattle, WA"
   email            : "omar.abdelbadie1@gmail.com"
   links:
