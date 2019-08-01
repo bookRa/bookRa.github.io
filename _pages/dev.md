@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: tags
 permalink: /development/
 title: "Development Posts by Tags"
 author_profile: true
