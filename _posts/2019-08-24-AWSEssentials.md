@@ -12,7 +12,7 @@ excerpt: "High-level overviews of AWS Integrated Services"
 
 I've included some quick study videos that give you a high-level overview of the most essential of AWS's _many_ services. 
 
-{% include video id="7XzvbEBeEk" provider="youtube" %}
+{% include video id="_7XzvbEBeEk" provider="youtube" %}
 
 Hope this helped! If you have any questions please let me know!
 
