@@ -114,7 +114,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/omar-abdelbadie/"
     - label: "Medium"
-      icon: "fas fa-fw fa-medium"
+      icon: "fab fa-medium"
       url: "https://medium.com/@omar.abdelbadie1"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
