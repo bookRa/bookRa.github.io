@@ -6,6 +6,6 @@ header:
 ---
 ### Hello there! ###
 
-**I am a data-focused developer and engineer. I am most interested in the process of digital transformation and its implications on delivering ideas across the world at scale. The commoditization of Machine Learning through accessible 3rd party libraries poses interesting questions to defining what it means to be a "Machine Learning Engineer." It is an amazing time to innovate and learning quickly and on-the-fly is an essential skill. I'm looking for satisfying work solving big problems with a team of sharp-shooters (egos and foibles notwithstanding ;p ) who enjoy mentoring and fostering a "growth" mindset**
+Since 2016 I have been a software engineer, delivering full-stack applications in the cloud, focusing on data science APIs and machine learning technologies. In my last several positions I have built highly scalable applications on distributed service architectures. My interests lie in creating parallelized big data processing pipelines, and leveraging advanced machine learning libraries to drive business analytics and customer value. I love to collaborate within agile, fast-moving teams to design, develop and release production-ready products.
 
 {% include video id="eKt0jgh2jd8" provider="youtube" %}
